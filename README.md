@@ -10,3 +10,4 @@ GitHub Intro
 7. 
 8. 
 
+This is to test the Zapier integration between WordPress and GitHub.
